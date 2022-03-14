@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssistiveTouch", "AssistiveTouch\AssistiveTouch.csproj", "{3857FEA9-34EF-46A0-9330-DEF8ABFD3F77}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssistiveTouch", "AssistiveTouch\AssistiveTouch.csproj", "{10012680-29FA-458D-A91E-A36E95206AC0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3857FEA9-34EF-46A0-9330-DEF8ABFD3F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3857FEA9-34EF-46A0-9330-DEF8ABFD3F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3857FEA9-34EF-46A0-9330-DEF8ABFD3F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3857FEA9-34EF-46A0-9330-DEF8ABFD3F77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10012680-29FA-458D-A91E-A36E95206AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10012680-29FA-458D-A91E-A36E95206AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10012680-29FA-458D-A91E-A36E95206AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10012680-29FA-458D-A91E-A36E95206AC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {946BF8BC-91B1-43B2-83EC-4D4510F2B978}
+		SolutionGuid = {162BC455-9AF8-419D-94E9-B4FA64B99E82}
 	EndGlobalSection
 EndGlobal
